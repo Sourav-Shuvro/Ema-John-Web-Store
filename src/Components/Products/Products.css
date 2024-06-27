@@ -1,0 +1,30 @@
+.product-info{
+    padding: 0 15px;
+}
+.product-info p{
+    margin: 0;
+}
+.total-product{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    position: relative;
+    height: 500px;
+}
+.product-items img{
+    height: 286px;
+    width: 286px;
+    border-radius: 5px;
+}
+button{
+    width: 100%;
+    background-color: #FFE0B3;
+    border: none;
+    padding: 10px 0;
+    margin-top: 10px;
+    position: absolute;
+    top: 10;
+    bottom: 0;
+}
+button:hover{
+    background-color: orange;
+}
